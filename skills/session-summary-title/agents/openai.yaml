@@ -1,0 +1,4 @@
+interface:
+  display_name: "Session Summary Title"
+  short_description: "Summarize a session and persist its 12-Han-character title"
+  default_prompt: "Use $session-summary-title to summarize this session and persist an exactly twelve-Han-character title using the available app or CLI interface."
